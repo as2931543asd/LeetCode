@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="LeetCode.cpp">
+    <ClCompile Include="LeetCode 985.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LeetCode 198.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
