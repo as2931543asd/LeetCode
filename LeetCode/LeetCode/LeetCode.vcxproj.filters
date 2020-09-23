@@ -30,5 +30,8 @@
     <ClCompile Include="LeetCode 198.cpp">
       <Filter>源文件\2020/9/23</Filter>
     </ClCompile>
+    <ClCompile Include="LeetCode 387.cpp">
+      <Filter>源文件\2020/9/23</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
