@@ -28,6 +28,7 @@ public:
             parent[rooty] = rootx;
             if (rank[rootx] == rank[rooty]) rank[rootx] += 1;
             return false; // 根节点不同，返回false
+            int i=0;
         }
         // 根节点相同，返回true
         return true;
