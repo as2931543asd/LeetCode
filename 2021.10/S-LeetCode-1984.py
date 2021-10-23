@@ -6,3 +6,4 @@ class Solution:
         for i in range(len(nums) - k+1):
             min_ = min(min_, nums[i+k-1] - nums[i])
         return min_
+# test
